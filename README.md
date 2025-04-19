@@ -13,6 +13,10 @@ Where:
 
  This formula shows that wind power increases dramatically with wind speed, making site selection and turbine design crucial for maximizing energy production
 
+### Demo 
+![Image](RESProjectDemo.png)
+
+
 #### Presented by: 
 - Hrishikesh H P | 4MC24CB021
 - Pooja Dewasi | 4MC24CB031
